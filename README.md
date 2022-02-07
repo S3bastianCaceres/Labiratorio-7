@@ -1,4 +1,4 @@
-# Labiratorio-7
+# Informe labiratorio - 7
  Informe de laboratorio 7 - Inductor y capacitor
 
 7.1 Objetivos 
