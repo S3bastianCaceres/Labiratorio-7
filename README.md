@@ -22,6 +22,8 @@ PRÁCTICA NO. 7. INDUCTOR Y CAPACITOR
 9.3 Procedimiento 
 
 1.- Construya en el protoboard el circuito mostrado en la Figura 1. 
+
+[![01.png](https://i.postimg.cc/bvHrjmVw/01.png)](https://postimg.cc/Y40M6zw5)
  
 a. Utilice el osciloscopio para observar el voltaje variando la frecuencia entre los 
 valores de 0, 10, 50, 100, 500, 1000. Anote los valores pico de las ondas observadas. 
@@ -35,6 +37,8 @@ Figura 1.
  
 2.- Construya el circuito mostrado en la Figura 2 
 
+[![02.png](https://i.postimg.cc/1tvz8fQx/02.png)](https://postimg.cc/FdJvqFzG)
+
 a. Utilice el osciloscopio para observar el voltaje variando la frecuencia entre los 
 valores de 0, 10, 50, 100, 500, 1000. Anote los valores pico de las ondas observadas. 
 
@@ -44,7 +48,6 @@ de 0, 10, 50, 100, 500, 1000. Anote los resultados.
 c. Utilice un multímetro para medir la corriente que atraviesa la resistencia variando la 
 frecuencia entre los valores 0, 10, 50, 100, 500, 1000. Anote los resultados. 
 
-Figura 2. 
  
 9.4 Análisis de resultados 
 
