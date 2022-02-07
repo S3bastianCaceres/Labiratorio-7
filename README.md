@@ -1,7 +1,5 @@
 # Labiratorio-7
- Informe de laboratorio
-
-PRÁCTICA NO. 7. INDUCTOR Y CAPACITOR 
+ Informe de laboratorio 7 - Inductor y capacitor
 
 7.1 Objetivos 
  
