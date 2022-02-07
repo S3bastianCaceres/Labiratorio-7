@@ -65,6 +65,30 @@ Figura 1.
 a. Utilice el osciloscopio para observar el voltaje variando la frecuencia entre los 
 valores de 0, 10, 50, 100, 500, 1000. Anote los valores pico de las ondas observadas. 
 
+Frecuencia de 0 Hz
+
+[![01.png](https://i.postimg.cc/HxdY59bS/01.png)](https://postimg.cc/CZrppDPD)
+
+Frecuencia de 10 Hz
+
+[![02.png](https://i.postimg.cc/Y2XrGg03/02.png)](https://postimg.cc/bdtc4ZQD)
+
+Frecuencia de 50 Hz
+
+[![03.png](https://i.postimg.cc/d1sFDtKp/03.png)](https://postimg.cc/WDHCHVzw)
+
+Frecuencia de 100 Hz
+
+[![04.png](https://i.postimg.cc/SxcbrzSH/04.png)](https://postimg.cc/686P6qGh)
+
+Frecuencia de 500 Hz
+
+[![05.png](https://i.postimg.cc/26SprcQf/05.png)](https://postimg.cc/t1wvzzvr)
+
+Frecuencia de 5000 Hz
+
+[![06.png](https://i.postimg.cc/G3N0nj9Z/06.png)](https://postimg.cc/LhzQzLtT)
+
 b. Utilice un multímetro para medir el voltaje variando la frecuencia entre los valores 
 de 0, 10, 50, 100, 500, 1000. Anote los resultados. 
 
