@@ -3,14 +3,14 @@
 
 PRÁCTICA NO. 7. INDUCTOR Y CAPACITOR 
 
-9.1 Objetivos 
+7.1 Objetivos 
  
 - Verificar el comportamiento de la bobina y el capacitor en circuitos DC. 
 - Verificar el comportamiento de la bobina y el capacitor en circuitos AC. 
 - Verificar las combinaciones serie y paralelo de bobinas y capacitores. 
 - Familiarizarse con el uso de instrumentos de medida. 
 
-9.2 Materiales 
+7.2 Materiales 
 - Generador de señales 
 - Fuente DC. 
 - Osciloscopio. 
@@ -19,7 +19,7 @@ PRÁCTICA NO. 7. INDUCTOR Y CAPACITOR
 - Cables conductores 
 - Resistencias, bobinas y capacitores. 
 
-9.3 Procedimiento 
+7.3 Procedimiento 
 
 1.- Construya en el protoboard el circuito mostrado en la Figura 1. 
 
@@ -49,13 +49,13 @@ c. Utilice un multímetro para medir la corriente que atraviesa la resistencia v
 frecuencia entre los valores 0, 10, 50, 100, 500, 1000. Anote los resultados. 
 
  
-9.4 Análisis de resultados 
+7.4 Análisis de resultados 
 
 1.- Para cada uno de los circuitos anteriores, elabore una tabla con los resultados de las 
 diferentes mediciones de voltaje realizadas con el osciloscopio y multímetro. Compare y 
 comente los resultados obtenidos tomando en cuenta las distintas frecuencias utilizadas. 
 
-9.5 Preguntas 
+7.5 Preguntas 
 
 1.- ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)? 
 
