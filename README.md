@@ -54,9 +54,22 @@ Frecuencia de 5000 Hz
 b. Utilice un multímetro para medir el voltaje variando la frecuencia entre los valores 
 de 0, 10, 50, 100, 500, 1000. Anote los resultados. 
 
+Medicion de voltaje con el multimetro 
+
+[![2-p.png](https://i.postimg.cc/28QfdZ8M/2-p.png)](https://postimg.cc/RNZ84qtL)
+
+Para la medicion del voltaje con las diferentes variaciones de frecuencia se sigue el mismo procedimiento de la imagen anterior
+
+
 c. Utilice un multímetro para medir la corriente que atraviesa la resistencia variando la 
 frecuencia entre los valores 0, 10, 50, 100, 500, 1000. Anote los resultados. 
 Figura 1. 
+
+Medicion de corriente con el multimetro 
+
+[![corriente.png](https://i.postimg.cc/632k87mH/corriente.png)](https://postimg.cc/sQz682yS)
+
+Para la medicion de la corriente con las diferentes variaciones de frecuencia se sigue el mismo procedimiento de la imagen anterior
  
 2.- Construya el circuito mostrado en la Figura 2 
 
@@ -91,6 +104,12 @@ Frecuencia de 5000 Hz
 
 b. Utilice un multímetro para medir el voltaje variando la frecuencia entre los valores 
 de 0, 10, 50, 100, 500, 1000. Anote los resultados. 
+
+Medicion de voltaje con el multimetro 
+
+(ingresar datos)
+
+Para la medicion del voltaje con las diferentes variaciones de frecuencia se sigue el mismo procedimiento de la imagen anterior
 
 c. Utilice un multímetro para medir la corriente que atraviesa la resistencia variando la 
 frecuencia entre los valores 0, 10, 50, 100, 500, 1000. Anote los resultados. 
