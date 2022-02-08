@@ -107,9 +107,9 @@ de 0, 10, 50, 100, 500, 1000. Anote los resultados.
 
 Medicion de voltaje con el multimetro 
 
-(ingresar datos)
+[![01.png](https://i.postimg.cc/DwHC07t6/01.png)](https://postimg.cc/Hr00P1W8)
 
-Para la medicion del voltaje con las diferentes variaciones de frecuencia se sigue el mismo procedimiento de la imagen anterior
+Para la medicion del voltaje de las frecuencias restantes se las hace variando la frecuencia de la fuente de voltaje AC
 
 c. Utilice un multímetro para medir la corriente que atraviesa la resistencia variando la 
 frecuencia entre los valores 0, 10, 50, 100, 500, 1000. Anote los resultados. 
