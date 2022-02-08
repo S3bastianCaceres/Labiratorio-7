@@ -29,27 +29,27 @@ valores de 0, 10, 50, 100, 500, 1000. Anote los valores pico de las ondas observ
 
 Frecuencia de 0 Hz
 
-[![0-hz.png](https://i.postimg.cc/fyQxYFBG/0-hz.png)](https://postimg.cc/2bTbDHpG)
+[![01.png](https://i.postimg.cc/BQJGgB7D/01.png)](https://postimg.cc/c6kj1wS4)
 
 Frecuencia de 10 Hz
 
-[![10-hz.png](https://i.postimg.cc/90BqZf49/10-hz.png)](https://postimg.cc/PvPxkTQf)
+[![02.png](https://i.postimg.cc/mk28ckVc/02.png)](https://postimg.cc/8J9h912D)
 
 Frecuencia de 50 Hz
 
-[![50-hz.png](https://i.postimg.cc/WbXk4hcL/50-hz.png)](https://postimg.cc/N52MJG0p)
+[![03.png](https://i.postimg.cc/28t26zW6/03.png)](https://postimg.cc/7fggtrm8)
 
 Frecuencia de 100 Hz
 
-[![100-hz.png](https://i.postimg.cc/sXdBLW7S/100-hz.png)](https://postimg.cc/1gB5nfW5)
+[![04.png](https://i.postimg.cc/yNmPvcbg/04.png)](https://postimg.cc/Z9qpqBZ4)
 
 Frecuencia de 500 Hz
 
-[![500-hz.png](https://i.postimg.cc/CxRzL74k/500-hz.png)](https://postimg.cc/JsW1pbvz)
+[![05.png](https://i.postimg.cc/fLMvFyGH/05.png)](https://postimg.cc/McrRf6KR)
 
 Frecuencia de 5000 Hz
 
-[![1000-hz.png](https://i.postimg.cc/x1Bqkms7/1000-hz.png)](https://postimg.cc/jDQRmDYQ)
+[![06.png](https://i.postimg.cc/kGpFBcBZ/06.png)](https://postimg.cc/Pv1871bz)
 
 b. Utilice un multímetro para medir el voltaje variando la frecuencia entre los valores 
 de 0, 10, 50, 100, 500, 1000. Anote los resultados. 
