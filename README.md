@@ -199,6 +199,8 @@ Cuando se tiene un voltaje este se refiere a una medida de su efectividad al tra
 
 # 5. VIDEO #
 
+https://www.youtube.com/watch?v=LBuj0we2fNg
+
 # 6. CONCLUSIONES #
 
 Al hacer uso del osciloscopio, se observo mediciones con respecto al dominio del tiempo, obteniendo valores de la amplitud, valor pico a pico, y maximos y minimos con respecto al voltaje.
@@ -210,3 +212,8 @@ Los osciloscopios se puede medir corriente y voltaje y en esta practica se prese
 La corriente en un circuito con inductores tiene valores altos y esto sucede por que las inductores aprovechan el paso de la corriente para generar un campomagnetico de gran cantidad de voltaje y con baja resistencia provocando que la corriente del circuito tenga valores altos.
 
 # 7. BIBLIOGRAFÍA #
+
+- A. (2018, 9 febrero). Qué es un inductor y cómo funciona. Plantas eléctricas. https://www.luzplantas.com/que-es-un-inductor-y-como-funciona/
+- Mecatrónica Latam. (2021, 28 abril). Inductor. Mecatrónica LATAM. https://www.mecatronicalatam.com/es/tutoriales/electronica/componentes-electronicos/inductor/
+- Mecafenix, I. (2021, 4 enero). ¿Qué es un capacitor? y sus tipos. Ingeniería Mecafenix. https://www.ingmecafenix.com/electronica/el-capacitor/
+- Mecatrónica Latam. (2021, 23 abril). Capacitor. https://www.mecatronicalatam.com/es/tutoriales/electronica/componentes-electronicos/capacitor/
