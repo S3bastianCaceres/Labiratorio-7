@@ -134,7 +134,7 @@ La medicion de la corriente varia con respecto a las frecuencias de la fuente AC
 
 | **Frecuencia (Hz)** | **Valor Pico (Vo)** | **Voltimetro (Vo)** | **Corriente (A)** |
 | ---------- | ---------- | ---------- | --------- |
-| 0 | 0 | 0 | 0 |
+| 0 | 0.69V | 7.17 V | 0 |
 | 10 | 9.83V | 7.013V |8.928 mA|
 | 50 | 8.4V | 6V | 0.038A |
 | 100 | 6.09V | 4.38V | 0.056A |
@@ -152,7 +152,7 @@ Utilizando el osciloscopio se observa que mientras mas frecuencia exista en un u
 
 | **Frecuencia (Hz)** | **Valor Pico (Vo)** | **Voltimetro (Vo)** | **Corriente (A)** |
 | ---------- | ---------- | ---------- | --------- |
-| 0 | 0 | 0 | 0 |
+| 0 | 0.31V | 0.313V | 0 |
 | 10 | 317mV | 0.225V | 0.071A|
 | 50 | 1.56V | 1.111V | 0.07A |
 | 100 | 3.1V | 2.144V | 0.067A |
