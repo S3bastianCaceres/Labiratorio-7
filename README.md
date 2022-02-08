@@ -175,14 +175,6 @@ circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacit
 
 # 6. CONCLUSIONES #
 
-4.- ¿Qué son los valores eficaces de voltaje y corriente? 
-
-
-
-
-
-10.Conclusiones
-
 Al hacer uso del osciloscopio, se observo mediciones con respecto al dominio del tiempo, obteniendo valores de la amplitud, valor pico a pico, y maximos y minimos con respecto al voltaje.
 
 Los voltajes pertenecen al eje de las "y", y el tiempo pertenece al eje de las "x", en la pantalla del osciloscopio se puede manipular la amplitud y con el eje de las "y", obteniendose asi una onsa sinusoidal que muestra valores respecto al tiempo.
