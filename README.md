@@ -67,7 +67,7 @@ Figura 1.
 
 Medicion de corriente con el multimetro 
 
-[![01.png](https://i.postimg.cc/pVCnkqXM/01.png)](https://postimg.cc/5jH025Cs)
+[![01.png](https://i.postimg.cc/JnBrB37g/01.png)](https://postimg.cc/5YbdhCCq)
 
 Para la medicion de la corriente con las diferentes variaciones de frecuencia se sigue el mismo procedimiento de la imagen anterior
  
