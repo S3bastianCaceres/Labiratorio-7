@@ -16,7 +16,7 @@
 
 # 3. EXPLICACIÓN DEL PROCEDIMIENTO #
 
-**3.1 Materiales** 
+**Materiales** 
 - Generador de señales 
 - Fuente DC. 
 - Osciloscopio. 
@@ -25,7 +25,7 @@
 - Cables conductores 
 - Resistencias, bobinas y capacitores. 
 
-**3.2 Procedimiento **
+**Procedimiento**
 
 1.- Construya en el protoboard el circuito mostrado en la Figura 1. 
 
@@ -153,7 +153,7 @@ La medicion de la corriente varia con respecto a las frecuencias de la fuente AC
 | 1000 | 9.36mV | 6.745V | 0.021A |
 
 
-**7.5 Preguntas** 
+**Preguntas** 
 
 1.- **¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?** 
 
