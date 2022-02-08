@@ -47,7 +47,7 @@ Frecuencia de 500 Hz
 
 [![05.png](https://i.postimg.cc/fLMvFyGH/05.png)](https://postimg.cc/McrRf6KR)
 
-Frecuencia de 5000 Hz
+Frecuencia de 1000 Hz
 
 [![06.png](https://i.postimg.cc/kGpFBcBZ/06.png)](https://postimg.cc/Pv1871bz)
 
@@ -56,7 +56,7 @@ de 0, 10, 50, 100, 500, 1000. Anote los resultados.
 
 Medicion de voltaje con el multimetro 
 
-[![2-p.png](https://i.postimg.cc/28QfdZ8M/2-p.png)](https://postimg.cc/RNZ84qtL)
+[![01.png](https://i.postimg.cc/DwHC07t6/01.png)](https://postimg.cc/Hr00P1W8)
 
 Para la medicion del voltaje con las diferentes variaciones de frecuencia se sigue el mismo procedimiento de la imagen anterior
 
@@ -67,7 +67,7 @@ Figura 1.
 
 Medicion de corriente con el multimetro 
 
-[![corriente.png](https://i.postimg.cc/632k87mH/corriente.png)](https://postimg.cc/sQz682yS)
+[![01.png](https://i.postimg.cc/pVCnkqXM/01.png)](https://postimg.cc/5jH025Cs)
 
 Para la medicion de la corriente con las diferentes variaciones de frecuencia se sigue el mismo procedimiento de la imagen anterior
  
