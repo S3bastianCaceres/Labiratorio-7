@@ -132,11 +132,19 @@ Tabla 1 - Circuito con capacitores
 | ---------- | ---------- | ---------- | --------- |
 | Hz | Vo | Vo | A |
 | 0 | 0 | 0 | 0 |
-| 10 | 9.83V | 7.013V |8.928 A|
+| 10 | 9.83V | 7.013V |8.928 mA|
 | 50 | 8.4V | 6V | 0.038A |
 | 100 | 6.09V | 4.38V | 0.056A |
 | 500 | 1.55V | 1.10V | 0.07A |
 | 1000 | 782mV | 0.55V | 0.07A |
+
+Utilizando el amperimetro para hallar la intensidad de corriente que cae en la resistencia de 100 ohms se obseva que a mayor frecuencia existira una mayor intensidad de corriente que caera en la resistencia
+
+Utilizando el voltimetro para hallar el Vo variando las frecuencias se obtubieron valores que decrecen su valor a medida que mayor frecuencia se aplique a la fuente de AC
+
+Utilizando el osciloscopio se observa que mientras mas frecuencia exista en un una fuente de AC, menos es el voltaje pico en las ondas sinusoidales
+
+
 
 Tabla 2 - Circuito con inductores
 
@@ -162,3 +170,19 @@ circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacit
 distintos? 
 
 4.- ¿Qué son los valores eficaces de voltaje y corriente? 
+
+
+
+
+
+10.Conclusiones
+
+Al hacer uso del osciloscopio, se observo mediciones con respecto al dominio del tiempo, obteniendo valores de la amplitud, valor pico a pico, y maximos y minimos con respecto al voltaje.
+
+Los voltajes pertenecen al eje de las "y", y el tiempo pertenece al eje de las "x", en la pantalla del osciloscopio se puede manipular la amplitud y con el eje de las "y", obteniendose asi una onsa sinusoidal que muestra valores respecto al tiempo.
+
+Los osciloscopios se puede medir corriente y voltaje y en esta practica se presenta el caso donde determinamos el voltaje pico de las ondas.
+
+La corriente en un circuito con inductores tiene valores altos y esto sucede por que las inductores aprovechan el paso de la corriente para generar un campomagnetico de gran cantidad de voltaje y con baja resistencia provocando que la corriente del circuito tenga valores altos.
+
+
