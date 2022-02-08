@@ -126,8 +126,11 @@ La medicion de la corriente varia con respecto a las frecuencias de la fuente AC
 diferentes mediciones de voltaje realizadas con el osciloscopio y multímetro. Compare y 
 comente los resultados obtenidos tomando en cuenta las distintas frecuencias utilizadas. 
 
+Tabla 1 - Circuito con capacitores
+
 | Frecuencia | Voltaje AC | Voltimetro | Corriente |
 | ---------- | ---------- | ---------- | --------- |
+| Hz | Vo | Vo | A |
 | 0 | 0 | 0 | 0 |
 | 10 | 9.83V | 7.013 |8.928 A|
 | 50 | 8.4V | 6V | 0.038A |
