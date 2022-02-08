@@ -56,7 +56,7 @@ de 0, 10, 50, 100, 500, 1000. Anote los resultados.
 
 Medicion de voltaje con el multimetro 
 
-[![01.png](https://i.postimg.cc/DwHC07t6/01.png)](https://postimg.cc/Hr00P1W8)
+[![01-voltios-multisin.png](https://i.postimg.cc/x101FbgJ/01-voltios-multisin.png)](https://postimg.cc/9rn2D06C)
 
 Para la medicion del voltaje con las diferentes variaciones de frecuencia se sigue el mismo procedimiento de la imagen anterior
 
