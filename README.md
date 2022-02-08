@@ -5,6 +5,8 @@
 
 **Objetivo General**
 
+Verificar el comportamiento de componentes como lo son el inductor y el capacitor de un circuito en corrientes continuas y alternas, utlizando su simulación real mediante simuladores y evaluado su comportamiento con diferentes parametros.
+
 **Objetivo Específico**
  
 - Verificar el comportamiento de la bobina y el capacitor en circuitos DC. 
@@ -164,12 +166,28 @@ Utilizando el osciloscopio se observa que mientras mas frecuencia exista en un u
 
 1.- **¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?** 
 
+En corriente continua una bobina se comporta como un cortocircuito, es decir, un conductor ideal ya que no varía con el tiempo ni existe ninguna autoinducción de ninguna f.e.m, además el condensador se comporta como un circuito abierto lo que sugiere que este no permite el paso de corriente.
+
+
 2.- **¿Cómo se comportan la bobina y el capacitor en corriente alterna?** 
+
+En corriente alterna, una bobina ofrece una resistencia al paso de la corriente eléctrica que se denomina reactancia inductiva; el condensador se carga y descarga tantas veces como varíe la tensión. Esto provoca que cuando la tensión aumenta hace circular la corriente en un sentido, pero la corriente que se libera no va en ese sentido.
+
+El capacitor con corriente alterna se comporta como un conductor lo que hace que estos solo pasen corriente alterna a una parte del circuito cuando se requiera.
 
 3.- **¿Qué cree usted que ocurriría con el voltaje y la corriente de la resistencia en los 
 circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores distintos?** 
 
+En cuanto a las bobinas estas dependeran de los valores que se asignen en weber ya que la corriente puede tomar una varianza al igual que el voltaje de salida.
+
+Con los condensadores la resistencia no sufrira cambios ni tampoco la corriente, sin embargo el voltaje de salida Vp se vera afectado pues la capacitancia se sumara dejando un paso de corriente libre.
+
 4.- **¿Qué son los valores eficaces de voltaje y corriente?** 
+
+Refiriendonos a el valor eficaz de una corriente alterna, este es el valor que tendría una corriente continua que produjera la misma potencia que dicha corriente alterna, al aplicar ambas, primero una y luego otra, sobre una misma resistencia.
+
+Cuando se tiene un voltaje este se refiere a una medida de su efectividad al transmitir potencia a una carga como a un resistor. No es una medida de su valor medio o valor máximo. Esta medida se conoce como valor eficaz, y consiste de un valor de CD (corriente directa) que transmite la misma potencia promedio a un resistor, que la que debe transmitir una fuente variable de manera periódica.
+
 
 # 5. VIDEO #
 
@@ -183,4 +201,4 @@ Los osciloscopios se puede medir corriente y voltaje y en esta practica se prese
 
 La corriente en un circuito con inductores tiene valores altos y esto sucede por que las inductores aprovechan el paso de la corriente para generar un campomagnetico de gran cantidad de voltaje y con baja resistencia provocando que la corriente del circuito tenga valores altos.
 
-
+# 7. BIBLIOGRAFÍA #
