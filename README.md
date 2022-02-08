@@ -114,6 +114,11 @@ Para la medicion del voltaje con las diferentes variaciones de frecuencia se sig
 c. Utilice un multímetro para medir la corriente que atraviesa la resistencia variando la 
 frecuencia entre los valores 0, 10, 50, 100, 500, 1000. Anote los resultados. 
 
+Medición de corriente 
+
+[![01.png](https://i.postimg.cc/pVCnkqXM/01.png)](https://postimg.cc/5jH025Cs)
+
+La medicion de la corriente varia con respecto a las frecuencias de la fuente AC
  
 7.4 Análisis de resultados 
 
