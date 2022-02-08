@@ -126,6 +126,17 @@ La medicion de la corriente varia con respecto a las frecuencias de la fuente AC
 diferentes mediciones de voltaje realizadas con el osciloscopio y multímetro. Compare y 
 comente los resultados obtenidos tomando en cuenta las distintas frecuencias utilizadas. 
 
+| Frecuencia | Voltaje AC | Voltimetro | Corriente |
+| ---------- | ---------- | ---------- | --------- |
+| 0 | 0 | 0 | 0 |
+| 10 | 9.83V | 7.013 |8.928 A|
+| 50 | 8.4V | 6V | 0.038A |
+| 100 | 6.09V | 4.38V | 0.056A |
+| 500 | 1.55V | 1.10V | 0.07A |
+| 1000 | 782mV | 0.55 | 0.07A |
+
+
+
 7.5 Preguntas 
 
 1.- ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)? 
