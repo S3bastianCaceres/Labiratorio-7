@@ -16,6 +16,14 @@ Verificar el comportamiento de componentes como lo son el inductor y el capacito
 
 # 2. MARCO TEÓRICO #
 
+[![Whats-App-Image-2022-02-07-at-23-38-13.jpg](https://i.postimg.cc/MZ0NLhr3/Whats-App-Image-2022-02-07-at-23-38-13.jpg)](https://postimg.cc/Z0RwBDm6)
+
+[![maxresdefault.jpg](https://i.postimg.cc/vmQcrRkR/maxresdefault.jpg)](https://postimg.cc/QFy8DzjS)
+
+[![Whats-App-Image-2022-02-07-at-23-38-12.jpg](https://i.postimg.cc/4dyy06XB/Whats-App-Image-2022-02-07-at-23-38-12.jpg)](https://postimg.cc/DJV7JbJX)
+
+[![capacitor.png](https://i.postimg.cc/z3Zf34Kc/capacitor.png)](https://postimg.cc/Mf5wFPs7)
+
 # 3. EXPLICACIÓN DEL PROCEDIMIENTO #
 
 **Materiales** 
