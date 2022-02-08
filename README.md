@@ -1,12 +1,16 @@
 # Informe laboratorio - 7
- Informe de laboratorio 7 - Inductor y capacitor
+**Inductor y capacitor**
 
-7.1 Objetivos 
+# 1. OBJETIVOS # 
  
 - Verificar el comportamiento de la bobina y el capacitor en circuitos DC. 
 - Verificar el comportamiento de la bobina y el capacitor en circuitos AC. 
 - Verificar las combinaciones serie y paralelo de bobinas y capacitores. 
 - Familiarizarse con el uso de instrumentos de medida. 
+
+# 2. MARCO TEÓRICO #
+
+# 3. EXPLICACIÓN DEL PROCEDIMIENTO #
 
 7.2 Materiales 
 - Generador de señales 
@@ -119,18 +123,13 @@ Medición de corriente
 [![01.png](https://i.postimg.cc/pVCnkqXM/01.png)](https://postimg.cc/5jH025Cs)
 
 La medicion de la corriente varia con respecto a las frecuencias de la fuente AC
- 
-7.4 Análisis de resultados 
 
-1.- Para cada uno de los circuitos anteriores, elabore una tabla con los resultados de las 
-diferentes mediciones de voltaje realizadas con el osciloscopio y multímetro. Compare y 
-comente los resultados obtenidos tomando en cuenta las distintas frecuencias utilizadas. 
+# 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR #
 
-Tabla 1 - Circuito con capacitores
+**Tabla 1 - Circuito con capacitores**
 
-| Frecuencia | Voltaje AC | Voltimetro | Corriente |
+| Frecuencia (Hz) | Valor Pico (Vo) | Voltimetro (Vo) | Corriente (A) |
 | ---------- | ---------- | ---------- | --------- |
-| Hz | Vo | Vo | A |
 | 0 | 0 | 0 | 0 |
 | 10 | 9.83V | 7.013V |8.928 A|
 | 50 | 8.4V | 6V | 0.038A |
@@ -138,11 +137,10 @@ Tabla 1 - Circuito con capacitores
 | 500 | 1.55V | 1.10V | 0.07A |
 | 1000 | 782mV | 0.55V | 0.07A |
 
-Tabla 2 - Circuito con inductores
+**Tabla 2 - Circuito con inductores**
 
-| Frecuencia | Voltaje AC | Voltimetro | Corriente |
+| Frecuencia (Hz) | Valor Pico (Vo) | Voltimetro (Vo) | Corriente (A) |
 | ---------- | ---------- | ---------- | --------- |
-| Hz | Vo | Vo | A |
 | 0 | 0 | 0 | 0 |
 | 10 | 317mV | 0.225V | 0.071A|
 | 50 | 1.56V | 1.111V | 0.07A |
