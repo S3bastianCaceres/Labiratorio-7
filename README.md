@@ -167,7 +167,7 @@ Utilizando el osciloscopio se observa que mientras mas frecuencia exista en un u
 | 50 | 1.56V | 1.111V | 0.07A |
 | 100 | 3.1V | 2.144V | 0.067A |
 | 500 | 8.45V | 5.986V | 0.038A |
-| 1000 | 9.36mV | 6.745V | 0.021A |
+| 1000 | 9.36V | 6.745V | 0.021A |
 
 
 **Preguntas** 
